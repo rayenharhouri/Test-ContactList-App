@@ -1,6 +1,6 @@
 # Test Script README
 
-This README provides an overview of a test script for mobile application testing using [insert your testing framework/library name here].
+This README provides an overview of a test script for mobile application testing using APPIUM and MochaJs.
 
 ## Table of Contents
 
