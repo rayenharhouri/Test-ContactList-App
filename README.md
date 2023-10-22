@@ -19,7 +19,10 @@ This test script is designed to perform various test scenarios on a mobile appli
 
 Before running the test script, you should have the following:
 
-- [Insert detailed prerequisites here, such as the required software, environment setup, or devices]
+- appium server
+- nodejs
+- rooted device
+- adb
 
 ## Test Scenarios
 
