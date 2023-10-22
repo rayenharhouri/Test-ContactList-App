@@ -13,7 +13,7 @@ This README provides an overview of a test script for mobile application testing
 
 ## Description
 
-This test script is designed to perform various test scenarios on a mobile application. It uses [insert your chosen testing framework/library here] for automating interactions with the application.
+This test script is designed to perform various test scenarios on a mobile application. It uses APPIUM and MochaJs for automating interactions with the application.
 
 ## Prerequisites
 
